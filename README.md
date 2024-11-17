@@ -10,13 +10,13 @@ Welcome toDeRock-360-README.md! This repository serves as a comprehensive resour
  [License](#license)
 [Contact](#contact)
 
-About
+#About:
 This project is designed to [expand on the purpose of the project, e.g., provide a secure and efficient smart contract platform, develop a cutting-edge web application framework, or deliver a versatile machine learning toolkit]. Our goal is to [state the primary goal, e.g., enhance the user experience, improve security, or offer scalable solutions].
 
- Usage
+#  Usage:
 To get started with this project, follow the usage instructions provided below. Whether you are a developer looking to contribute or an end-user wanting to leverage the features, these guidelines will help you make the most of this repository.
 
-Examples:
+#. Examples:
 -Smart Contract Development: Use this platform to create and deploy your own smart contracts efficiently.
 -Web Application Framework: Build responsive and interactive web applications with ease.
 -Machine Learning Toolkit: Implement state-of-the-art machine learning models and algorithms.
@@ -35,7 +35,7 @@ To set up the project locally, follow these steps:
     npm install
     ```
 
- Contributing
+#. Contributing
 We welcome contributions from the community! Whether you're fixing a bug, adding a new feature, or improving documentation, your help is appreciated.
 
  Steps to Contribute:
@@ -57,7 +57,7 @@ We welcome contributions from the community! Whether you're fixing a bug, adding
 License
 This project is licensed under the MIT License. For more details, please see the [LICENSE](LICENSE) file.
 
- Contact
+ #. Contact
 If you have any questions or need support, feel free to reach out:
 Email: 179988301+derocktools@DeRock-360.noreply.github.com
 GitHub: [@DeRock-360](https://github.com/DeRock-360)
